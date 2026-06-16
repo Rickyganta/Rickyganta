@@ -1,10 +1,24 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:161b22,100:0d1117&height=200&section=header&text=Ricky%20Johnson&fontSize=42&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Data%20Engineer%20%C2%B7%20AI%2FML%20Engineer%20%C2%B7%20Data%20Scientist&descSize=16&descAlignY=58&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:161b22,50:1f6feb,100:0d1117&height=210&section=header&text=Ricky%20Johnson&fontSize=42&fontColor=58a6ff&animation=twinkling&fontAlignY=36&desc=Data%20Engineer%20%C2%B7%20AI%2FML%20Engineer%20%C2%B7%20Data%20Scientist&descSize=16&descAlignY=56&descAlign=50" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3500&pause=1500&color=58A6FF&center=true&vCenter=true&width=700&lines=I+turn+data+into+production-ready+intelligence.;Pipelines+%C2%B7+Models+%C2%B7+APIs+%C2%B7+Scale" alt="Typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3500&pause=1500&color=58A6FF&center=true&vCenter=true&width=720&lines=I+turn+data+into+production-ready+intelligence.;Pipelines+%C2%B7+Models+%C2%B7+APIs+%C2%B7+Scale" alt="Typing"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=3000&pause=1200&color=79C0FF&center=true&vCenter=true&width=680&lines=AWS+%C2%B7+Azure+%C2%B7+GCP+%C2%B7+Kafka+%C2%B7+Hadoop;LLMs+%C2%B7+RAG+%C2%B7+LangChain+%C2%B7+LangGraph" alt="Stack typing"/>
 
 <br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-ad8e8c1e-3de8-4199-a81d-aa609ad89306.gif" width="110" alt="ring"/>
+<img src="https://avatars.githubusercontent.com/u/178003832?v=4" width="100" style="border-radius:50%; margin: -88px 0 0 0;" alt="Ricky Johnson"/>
+<br/><br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/229223119-bffd1a9a-6937-414e-b2d0-1fc63ea27935.gif" width="72" alt="python"/>
+<img src="https://user-images.githubusercontent.com/74038190/229223120-1b45f2b3-ab48-44ff-b779-a4e825375102.gif" width="72" alt="aws"/>
+<img src="https://user-images.githubusercontent.com/74038190/229223129-03b48d26-5466-4088-aa7f-4217f4f5c41e.gif" width="72" alt="docker"/>
+<img src="https://user-images.githubusercontent.com/74038190/229223298-08844110-bef9-4a6b-b0e9-a8fd8e6bfa2c.gif" width="72" alt="ai"/>
+<img src="https://user-images.githubusercontent.com/74038190/229223291-d55d6656-d1a3-4b84-baec-528b7b9ef935.gif" width="72" alt="data"/>
+
+<br/><br/>
 
 <a href="https://rickyganta.github.io"><img src="https://img.shields.io/badge/Portfolio-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
 <a href="mailto:rickyganta@gmail.com"><img src="https://img.shields.io/badge/Email-rickyganta@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
@@ -32,7 +46,7 @@ I design and ship end-to-end data systems — from lakehouse pipelines and stati
 | | |
 |:---|:---|
 | 🔭 **Now** | DuckDB lakehouses, dbt pipelines, multi-agent AI & real-time ML |
-| 🧠 **Stack** | Python · DuckDB · dbt · FastAPI · LangGraph · MLflow · Redis |
+| 🧠 **Stack** | AWS · Azure · GCP · Kafka · Hadoop · LLMs · RAG · LangChain · LangGraph |
 | 📫 **Contact** | [rickyganta@gmail.com](mailto:rickyganta@gmail.com) |
 | 🌐 **Site** | [rickyganta.github.io](https://rickyganta.github.io) |
 
@@ -54,15 +68,15 @@ I design and ship end-to-end data systems — from lakehouse pipelines and stati
 **🗄️ Data Engineering**
 
 Lakehouse pipelines · ETL/ELT  
-DuckDB · dbt · GitHub Actions
+AWS · Azure · GCP · Kafka · Hadoop
 
 </td>
 <td width="33%" align="center">
 
 **🤖 AI / ML Engineering**
 
-Multi-agent systems · LLM ops  
-FastAPI · Redis · Docker
+LLMs · RAG · LangChain · LangGraph  
+Multi-agent systems · FastAPI · Docker
 
 </td>
 <td width="33%" align="center">
@@ -70,7 +84,7 @@ FastAPI · Redis · Docker
 **📈 Data Science**
 
 Forecasting · SARIMAX · Prophet  
-MLflow · walk-forward validation
+MLflow · walk-forward validation · DuckDB
 
 </td>
 </tr>
@@ -82,8 +96,48 @@ MLflow · walk-forward validation
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,docker,postgres,redis,git,githubactions,linux,aws,streamlit,plotly&perline=11" alt="Skills"/>
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,python,docker,kafka,postgres,redis,git,githubactions,linux&perline=11" alt="Cloud & core"/>
 
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=fastapi,streamlit,plotly,sklearn,bash,nginx,sqlite,html,css,js&perline=10" alt="Tools"/>
+
+</div>
+
+<br/>
+
+**☁️ Cloud**
+<div align="center">
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
+<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"/>
+<img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP"/>
+</div>
+
+**🗄️ Big Data & Pipelines**
+<div align="center">
+<img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Kafka"/>
+<img src="https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black" alt="Hadoop"/>
+<img src="https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black" alt="DuckDB"/>
+<img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" alt="dbt"/>
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GHA"/>
+</div>
+
+**🤖 AI · LLMs · Agents**
+<div align="center">
+<img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white" alt="LLMs"/>
+<img src="https://img.shields.io/badge/RAG-58A6FF?style=for-the-badge" alt="RAG"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
+<img src="https://img.shields.io/badge/LangGraph-7C3AED?style=for-the-badge&logo=langchain&logoColor=white" alt="LangGraph"/>
+<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow"/>
+</div>
+
+**⚙️ Engineering**
+<div align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
 </div>
 
 ---
