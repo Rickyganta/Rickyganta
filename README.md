@@ -99,11 +99,11 @@ MLflow · walk-forward validation · DuckDB
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=aws,azure,gcp,python,docker,kafka,postgres,redis,git,githubactions,linux&perline=11" alt="Cloud & core"/>
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=fastapi,streamlit,plotly,sklearn,bash,nginx,sqlite,html,css,js&perline=10" alt="Tools"/>
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,python,docker,kafka&perline=6" alt="Cloud row 1"/>
+<br/>
+<img src="https://skillicons.dev/icons?i=postgres,redis,git,githubactions,linux,bash&perline=6" alt="Cloud row 2"/>
+<br/>
+<img src="https://skillicons.dev/icons?i=nginx,sqlite,html,css,js,fastapi&perline=6" alt="Cloud row 3"/>
 
 </div>
 
