@@ -1,29 +1,25 @@
 <div align="center">
 
-<!-- Name — high contrast, always visible -->
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=44&duration=2500&pause=2000&color=0969DA&center=true&vCenter=true&width=500&lines=Ricky+Johnson" alt="Ricky Johnson"/>
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0d1117&height=48&section=header&text=Data%20Engineer%20%C2%B7%20AI%2FML%20Engineer%20%C2%B7%20Data%20Scientist&fontSize=15&fontColor=f0f6fc&animation=fadeIn" width="100%"/>
+# Ricky Johnson
+
+**Data Engineer · AI/ML Engineer · Data Scientist**
 
 <br/>
 
-<!-- Robot assistant + greeting -->
-<table>
-<tr>
-<td width="45%" align="center" valign="middle">
-  <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="300" alt="Robot assistant"/>
-</td>
-<td width="55%" align="left" valign="middle">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1800&color=0969DA&center=false&vCenter=true&width=420&lines=Hi!+How+may+I+help+you%3F;%F0%9F%A4%96+Your+data+%26+AI+engineer;Building+pipelines+%C2%B7+models+%C2%B7+APIs" alt="Greeting"/>
-  <br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=14&duration=3200&pause=1200&color=656D76&center=false&vCenter=true&width=420&lines=I+turn+raw+data+into+production+intelligence.;AWS+%C2%B7+Azure+%C2%B7+GCP+%C2%B7+Kafka+%C2%B7+LangGraph" alt="Subtitle"/>
-</td>
-</tr>
-</table>
+<!-- Animated contribution snake — hero -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rickyganta/Rickyganta/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rickyganta/Rickyganta/output/github-contribution-grid-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/Rickyganta/Rickyganta/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution snake animation"/>
+</picture>
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif" width="420" alt="Hi there wave"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1800&color=0969DA&center=true&vCenter=true&width=520&height=40&lines=Hi!+How+may+I+help+you%3F;%F0%9F%A4%96+Data+%26+AI+engineer+at+your+service;Pipelines+%C2%B7+Models+%C2%B7+APIs+%C2%B7+Scale" alt="Greeting"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=15&duration=3200&pause=1200&color=656D76&center=true&vCenter=true&width=600&height=30&lines=AWS+%C2%B7+Azure+%C2%B7+GCP+%C2%B7+Kafka+%C2%B7+Hadoop+%C2%B7+LangGraph;LLMs+%C2%B7+RAG+%C2%B7+LangChain" alt="Stack"/>
 
 <br/><br/>
 
@@ -235,18 +231,6 @@ Portfolio live at **[rickyganta.github.io](https://rickyganta.github.io)**
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rickyganta&layout=compact&theme=github_dark&hide_border=true&border_radius=10&langs_count=8" height="165" alt="Languages"/>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rickyganta&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Graph&height=200" alt="Activity"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rickyganta/Rickyganta/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rickyganta/Rickyganta/output/github-contribution-grid-snake.svg"/>
-  <img src="https://raw.githubusercontent.com/Rickyganta/Rickyganta/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake"/>
-</picture>
 
 </div>
 
