@@ -220,22 +220,6 @@ Portfolio live at **[rickyganta.github.io](https://rickyganta.github.io)**
 
 ---
 
-### GitHub activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Rickyganta&show_icons=true&theme=github_dark&hide_border=true&border_radius=10&include_all_commits=true&count_private=true" height="165" alt="Stats"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rickyganta&theme=github_dark&hide_border=true&border_radius=10" height="165" alt="Streak"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rickyganta&layout=compact&theme=github_dark&hide_border=true&border_radius=10&langs_count=8" height="165" alt="Languages"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rickyganta&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Graph&height=200" alt="Activity"/>
-
-</div>
-
----
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer" width="100%"/>
