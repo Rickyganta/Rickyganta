@@ -120,18 +120,6 @@ Walk-forward CV · sMAPE/WAPE/MASE evaluation · MLflow tracking · FastAPI depl
 </tr>
 </table>
 
-<br/>
-
-<div align="center">
-
-[![duckdb-equities-pipeline](https://github-readme-stats.vercel.app/api/pin/?username=Rickyganta&repo=duckdb-equities-pipeline&theme=github_dark&hide_border=true&border_radius=10)](https://github.com/Rickyganta/duckdb-equities-pipeline)
-[![RealTime-ML-API](https://github-readme-stats.vercel.app/api/pin/?username=Rickyganta&repo=RealTime-ML-API&theme=github_dark&hide_border=true&border_radius=10)](https://github.com/Rickyganta/RealTime-ML-API)
-
-[![Multi_Agent_Research_Assistant](https://github-readme-stats.vercel.app/api/pin/?username=Rickyganta&repo=Multi_Agent_Research_Assistant&theme=github_dark&hide_border=true&border_radius=10)](https://github.com/Rickyganta/Multi_Agent_Research_Assistant)
-[![retail-demand-forecasting](https://github-readme-stats.vercel.app/api/pin/?username=Rickyganta&repo=retail-demand-forecasting&theme=github_dark&hide_border=true&border_radius=10)](https://github.com/Rickyganta/retail-demand-forecasting)
-
-</div>
-
 ---
 
 <div align="center">
